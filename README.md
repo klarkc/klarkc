@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Activity](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=klarkc&style=--bg-color-0%3A%20rgba(255%2C%20255%2C%20255%2C%20.5)%3B)
+![Activity](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=klarkc&style=--bg-color-0%3A%20rgba(246%2C%20246%2C%20246%2C%20.8)%3B)
