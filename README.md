@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 We are validating our MVP and building a solid ground for the company growth with multifunctional teams. I am responsible for building the ground of our delivery product. Also I am in charge of building our tech team with principles and values aligned with our vision.
 
-[![Summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=klarkc&style=--branding-text-color%3A%20rgba(80%2C%20176%2C%20186%2C%201)%3B)](https://profile.codersrank.io/user/klarkc/)
-
 [![Stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=klarkc&skills=CSS,HTML,JSON,JavaScript,PHP,Shell,Vue&show-other-skills=true&bg=transparent&style=--branding-text-color%3A%20rgba(80%2C%20176%2C%20186%2C%201)%3B)](https://profile.codersrank.io/user/klarkc/)
+
+[![Summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=klarkc&style=--branding-text-color%3A%20rgba(80%2C%20176%2C%20186%2C%201)%3B)](https://profile.codersrank.io/user/klarkc/)
 
 [More](https://profile.codersrank.io/user/klarkc/info)
