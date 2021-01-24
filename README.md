@@ -23,6 +23,6 @@ We are validating our MVP and building a solid ground for the company growth wit
 
 [![Summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=klarkc&style=--branding-text-color%3A%20rgba(80%2C%20176%2C%20186%2C%201)%3B)](https://profile.codersrank.io/user/klarkc/)
 
-[![Stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=klarkc&skills=CSS,HTML,JSON,JavaScript,PHP,SCSS,Shell,Vue&show-other-skills=true&bg=transparent&style=--branding-text-color%3A%20rgba(80%2C%20176%2C%20186%2C%201)%3B)](https://profile.codersrank.io/user/klarkc/)
+[![Stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=klarkc&skills=CSS,HTML,JSON,JavaScript,PHP,Shell,Vue&show-other-skills=true&bg=transparent&style=--branding-text-color%3A%20rgba(80%2C%20176%2C%20186%2C%201)%3B)](https://profile.codersrank.io/user/klarkc/)
 
 [More](https://profile.codersrank.io/user/klarkc/info)
