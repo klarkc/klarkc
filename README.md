@@ -17,9 +17,14 @@ Here are some ideas to get you started:
 
 #### I'm a Software Engineer working in Florianópolis, Brazil.
 
-##### Co-Founder and Tech Lead at [Yappi](https://yappi.io)
-
-We are validating our MVP and building a solid ground for the company growth with multifunctional teams. I am responsible for building the ground of our delivery product. Also I am in charge of building our tech team with principles and values aligned with our vision.
+- 🔭 I’m currently working: [Yappi](https://yappi.io) and [OSS projects](https://github.com/klarkc?tab=repositories)
+- 🌱 I’m currently learning: WebRTC (it's so cool) and Deno and TypeScript
+- 👯 I’m looking to collaborate on: anything related to P2P networks, blockchain or game engines.
+- 🤔 I’m looking for help with? [platoon2](https://github.com/klarkc/platoon2), I am willing to rewrite this with TS. If you ask-me why, for the science, of course.
+- 💬 Ask me about: anything for real
+- 📫 How to reach me: [Twitter](https://twitter.com/klarkc)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Tatakae
 
 [![Stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=klarkc&skills=CSS,HTML,JSON,JavaScript,PHP,Shell,Vue&show-other-skills=true&bg=transparent&style=--branding-text-color%3A%20rgba(80%2C%20176%2C%20186%2C%201)%3B)](https://profile.codersrank.io/user/klarkc/)
 
