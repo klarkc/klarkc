@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### I'm a Software Engineer working in Florianópolis, Brazil.
 
-- 🔭 I’m currently working: [Yappi](https://yappi.io) and [OSS projects](https://github.com/klarkc?tab=repositories)
+- 🔭 I’m currently working: [OSS projects](https://github.com/klarkc?tab=repositories)
 - 🌱 I’m currently learning: WebRTC (it's so cool) and Deno and TypeScript
 - 👯 I’m looking to collaborate on: anything related to P2P networks, blockchain or game engines.
 - 🤔 I’m looking for help with? [platoon2](https://github.com/klarkc/platoon2) and [ssb-bot-feed](https://github.com/klarkc/ssb-bot-feed/pull/18), I am willing to rewrite both with TS. If you ask-me why, for the science, of course.
