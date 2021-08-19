@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 #### I'm a Software Engineer working in Florianópolis, Brazil.
 
 - 🔭 I’m currently working: [Acium.global](http://acium.global/), [Levi Money](http://levi.money)
-- 🌱 I’m currently learning: Deno and Purescript
-- 👯 I’m looking to collaborate on: anything related to P2P networks, blockchain or game engines.
-- 🤔 I’m looking for help with? [platoon2](https://github.com/klarkc/platoon2) and [ssb-bot-feed](https://github.com/klarkc/ssb-bot-feed/pull/18), I am willing to rewrite both with TS. If you ask-me why, for the science, of course.
+- 🌱 I’m currently learning: [PureScript](https://www.purescript.org/)
+- 👯 I’m looking to collaborate on: I want to have a vue <-> purescript experience, so that's what I am looking for now
+- 🤔 I’m looking for help with? [ssb-bot-feed](https://github.com/klarkc/ssb-bot-feed/pull/18), I am willing to with TS. If you ask-me why, for the science, of course.
 - 💬 Ask me about: anything for real
 - 📫 How to reach me: [Twitter](https://twitter.com/klarkc)
 - 😄 Pronouns: He/Him
