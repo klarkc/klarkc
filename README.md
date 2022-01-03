@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 #### I'm a Software Engineer working in Florianópolis, Brazil.
 
-- 🔭 I’m currently working: [Levi Money](http://levi.money)
 - 🌱 I’m currently learning/doing: [here](https://github.com/klarkc/stream/blob/main/README.md)
 - 👯 I’m looking to collaborate on: I want to improve vue <-> purescript experience, so [pure-vue](https://github.com/klarkc/pure-vue)
 - 💬 Ask me about: anything for real
