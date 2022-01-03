@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 #### I'm a Software Engineer working in Florianópolis, Brazil.
 
-- 🔭 I’m currently working: [Acium.global](http://acium.global/), [Levi Money](http://levi.money)
-- 🌱 I’m currently learning: [PureScript](https://www.purescript.org/) (follow me on [twitch](https://twitch.tv/klarkc))
+- 🔭 I’m currently working: [Levi Money](http://levi.money)
+- 🌱 I’m currently learning/doing: [here](https://github.com/klarkc/stream/blob/main/README.md)
 - 👯 I’m looking to collaborate on: I want to improve vue <-> purescript experience, so [pure-vue](https://github.com/klarkc/pure-vue)
-- 🤔 I’m looking for help with? [ssb-bot-feed](https://github.com/klarkc/ssb-bot-feed/pull/18), I am willing to with TS. If you ask-me why, for the science, of course.
 - 💬 Ask me about: anything for real
 - 📫 How to reach me: [Twitter](https://twitter.com/klarkc)
 - 😄 Pronouns: He/Him
