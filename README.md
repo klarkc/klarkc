@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### I'm a Software Engineer working from home
 
 - 🌱 I’m currently learning/doing: [Stream roadmap](https://github.com/klarkc/stream/blob/main/README.md)
-- 👯 I’m looking to collaborate on: I want to improve vue <-> purescript experience, so [pure-vue](https://github.com/klarkc/pure-vue)
+- 👯 I’m looking to collaborate on: Anything Cardano or PureScript related
 - 💬 Ask me about: anything for real
 - 📫 How to reach me: [Twitter](https://twitter.com/klarkc)
 - 😄 Pronouns: He/Him
