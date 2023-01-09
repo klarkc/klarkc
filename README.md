@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning/doing: [Stream roadmap](https://github.com/klarkc/stream/blob/main/README.md)
 - 👯 I’m looking to collaborate on: Anything Cardano or PureScript related
 - 📫 How to reach me: [Twitter](https://twitter.com/klarkc)
-- :briefcase: My experience: [Resume](https://klarkc-resume.vercel.app)
+- :briefcase: My experience: [Resume](http://praiseweb.com.br)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Tatakae
