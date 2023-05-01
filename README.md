@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 - :briefcase: My experience: [Resume](http://praiseweb.com.br)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Tatakae
+- 🖥️ Dotfiles: [klarkc/dotfiles](https://github.com/klarkc/dotfiles)
