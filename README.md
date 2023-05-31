@@ -1,26 +1,15 @@
 ### Hi there 👋
 
-<!--
-**klarkc/klarkc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 #### I'm a Software Engineer working from home
 
 - 🌱 I’m currently learning/doing: [Stream roadmap](https://github.com/klarkc/stream/blob/main/README.md)
 - 👯 I’m looking to collaborate on: Anything Cardano or PureScript related
-- 📫 How to reach me: [Twitter](https://twitter.com/klarkc)
 - :briefcase: My experience: [Resume](http://praiseweb.com.br)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Tatakae
 - 🖥️ Dotfiles: [klarkc/dotfiles](https://github.com/klarkc/dotfiles)
+
+[![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/klarkc)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/klarkc)
+[![CodersRank](https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=CodersRank&logoColor=white)](https://profile.codersrank.io/user/klarkc)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/klarkc)
