@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning/doing: [Stream roadmap](https://github.com/klarkc/stream/blob/main/README.md)
 - 👯 I’m looking to collaborate on: Anything Cardano or PureScript related
-- :briefcase: My experience: [Resume](http://praiseweb.com.br)
+- :briefcase: My experience: [Resume](https://klarkc-resume.vercel.app)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Tatakae
 - 🖥️ Dotfiles: [klarkc/dotfiles](https://github.com/klarkc/dotfiles)
