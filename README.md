@@ -2,9 +2,8 @@
 
 #### I'm a Software Engineer working from home
 
-- :briefcase: [Resume](https://klarkc-resume.vercel.app)
 - 🖥️ Dotfiles: [klarkc/dotfiles](https://github.com/klarkc/dotfiles)
-- ⚡ [Other links](https://linktr.ee/klarkc)
+- ⚡ [Links](https://linktr.ee/klarkc)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/klarkc)
 [![CodersRank](https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=CodersRank&logoColor=white)](https://profile.codersrank.io/user/klarkc)
