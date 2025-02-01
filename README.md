@@ -4,3 +4,4 @@
 
 - 🖥️ Dotfiles: [klarkc/dotfiles](https://github.com/klarkc/dotfiles)
 - ⚡ [Links](https://linktr.ee/klarkc)
+- [#OpenToWork](https://www.linkedin.com/in/klarkc)
